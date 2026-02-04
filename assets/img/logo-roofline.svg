@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" role="img" aria-label="Roofline chart logo">
+  <title>Roofline chart</title>
+  <g fill="none" stroke="#1f2933" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 90l50-40 40 30 50-55 40 30" />
+    <path d="M20 90h180" />
+  </g>
+</svg>
