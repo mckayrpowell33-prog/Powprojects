@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Boise skyline outline">
+  <title>Boise skyline outline</title>
+  <g fill="none" stroke="#b9b9b9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 210h80v-40h40v40h50v-70h40v70h60v-120h40v120h70v-90h40v90h80v-140h40v140h60v-60h50v60h90" />
+    <path d="M930 210v-90h40v90" />
+    <path d="M1000 210v-50h50v50" />
+    <path d="M1080 210v-110h60v110" />
+    <path d="M1150 210h30" />
+  </g>
+</svg>
